@@ -1,0 +1,17 @@
+Players: This CSV file from CrunchTimeBaseball.com includes the identification
+number for all historical MLB players across different media sites. This is
+useful for the Statcast data, which do not include player names.
+
+Retrosheet: Retrosheet (retrosheet.org) is a non-profit founded in 1989 to
+compile a complete record of historical MLB box scores and play-by-play
+accounts. Volunteers have undertaken a massive effort to collect play-by-play
+event files going as far back as 1921 and box scores going as far back as 1871.
+This CSV file includes every play from the 2016 MLB regular season.
+
+Statcast: Statcast is a camera tracking system introduced by MLB Advanced Media
+to all 30 MLB ballparks in 2015. Most of the data, which include the location
+of all players and the ball at many frames per second, are not available to the
+public, but summary statistics like pitch spin rate, hit exit velocity and hit
+launch angle, are available for download at baseballsavant.com. This CSV file
+includes exit velocity and launch angle for every tracked ball from April
+through July (4 months) of the 2016 MLB regular season.
